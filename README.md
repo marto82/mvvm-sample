@@ -1,1 +1,1 @@
-Model-View-ViewModel design patern
+Model-View-ViewModel design pattern
