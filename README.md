@@ -1,1 +1,1 @@
-# mvvm-sample
+Model-View-ViewModel design patern
